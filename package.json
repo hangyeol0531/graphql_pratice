@@ -1,0 +1,11 @@
+{
+  "name": "graphql_pratice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hangyeol0531/graphql_pratice",
+  "author": "hangyeol0531 <41174265+hangyeol0531@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
