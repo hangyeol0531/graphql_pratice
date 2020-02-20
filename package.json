@@ -6,6 +6,15 @@
   "author": "hangyeol0531 <41174265+hangyeol0531@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "babel-node": "^0.0.1-security",
     "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1"
   }
 }
